@@ -1,26 +1,27 @@
 {
-  "name": "nodejs",
-  "stack": "scalingo-18",
-  "description": "nodejs-v1.0",
+  "name": "scx",
+  "description": "scx",
   "logo": "https://scalingo.com/logo.svg",
-  "repository": "https://github.com/seav1/scalingo",
+  "repository": "https://github.com/alphaxcv/scx",
   "website": "https://scalingo.com",
   "env": {
-    "AGO_AUTH": {
-      "description": "AGO的Token",
-      "value": "xxx"
-    }, 
-    "NZ_SERVER": {
-      "description": "哪吒地址",
-      "value": "x.x.x:443"
+    "NZ_S": {
+      "description": "nz server",
+      "value": "x.x.x"
     },    
-    "NZ_KEY": {
-      "description": "哪吒密钥",
+    "NZ_K": {
+      "description": "nz key",
       "value": "xx"
-    }
-  },
+    },
+    "CF_T": {
+      "description": "ago key",
+      "value": "xx"
+    }    
+  },  
   "scripts": {
-    "first-deploy": "npm install",
-    "postdeploy": "npm start"
-  }
+    "first-deploy": "npm start &"
+  },
+  "addons": [
+    {"plan": "tcp-gateway:tcplb"}
+  ]  
 }
