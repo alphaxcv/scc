@@ -1,14 +1,17 @@
 {
-  "name": "nodejs-proxy",
+  "name": "my-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "http-proxy": "latest",
-    "ws": "^8.13.0"
+    "axios": "latest",
+    "express": "latest",
+    "http-proxy-middleware": "latest"
   }
 }
