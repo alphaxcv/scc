@@ -2,9 +2,9 @@
   "name": "my-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "sca.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node sca.js"
   },
   "keywords": [],
   "author": "",
