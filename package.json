@@ -2,9 +2,9 @@
   "name": "my-app",
   "version": "1.0.0",
   "description": "",
-  "main": "sc.js",
+  "main": "s0c.js",
   "scripts": {
-    "start": "node sc.js"
+    "start": "node s0c.js"
   },
   "keywords": [],
   "author": "",
