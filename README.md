@@ -3,6 +3,7 @@
 scalingo快速部署，免绑github，部署时自动添加TCP。
 
 注册并登录后，点上面的链接。填写哪吒面板地址，哪吒KEY，ARGO TOKEN。
+
 ```
 UUID默认:feefeb96-bfcf-4a9b-aac0-6aac771c1b98
 ARGO端口默认:8002
