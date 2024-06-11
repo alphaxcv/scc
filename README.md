@@ -6,3 +6,4 @@ UUID默认:feefeb96-bfcf-4a9b-aac0-6aac771c1b98
 ARGO端口默认:8002
 Path默认:/vls?ed=2560
 ```
+可以argo方式连接，也可用部署完得到的网址进行ws连接
