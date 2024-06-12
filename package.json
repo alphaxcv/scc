@@ -2,9 +2,9 @@
   "name": "my-app",
   "version": "1.0.0",
   "description": "",
-  "main": "s0c.js",
+  "main": "jxc.js",
   "scripts": {
-    "start": "node s0c.js"
+    "start": "node jxc.js"
   },
   "keywords": [],
   "author": "",
