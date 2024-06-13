@@ -17,8 +17,5 @@
       "description": "argo token",
       "value": "xx"
     }
-  },  
-  "scripts": {
-    "first-deploy": "npm start &"
   }
 }
