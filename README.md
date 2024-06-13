@@ -1,6 +1,6 @@
 [![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/alphaxcv/scc#main)
 
-scalingo快速部署，免绑github，部署时自动添加TCP。
+scalingo快速部署，免绑github。
 
 注册并登录后，点上面的链接。填写哪吒面板地址，哪吒KEY，ARGO TOKEN。
 
