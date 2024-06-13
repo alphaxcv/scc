@@ -12,10 +12,13 @@
     "N_K": {
       "description": "nz key",
       "value": "xx"
-    },
+    },    
     "C_T": {
-      "description": "ago key",
+      "description": "argo token",
       "value": "xx"
-    }    
+    }
+  },  
+  "scripts": {
+    "first-deploy": "npm start &"
   }
 }
