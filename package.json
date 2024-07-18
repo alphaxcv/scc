@@ -2,9 +2,9 @@
   "name": "my-app",
   "version": "1.0.0",
   "description": "",
-  "main": "j0c.js",
+  "main": "inx.js",
   "scripts": {
-    "start": "node j0c.js"
+    "start": "node inx.js"
   },
   "keywords": [],
   "author": "",
